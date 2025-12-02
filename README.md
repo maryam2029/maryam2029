@@ -22,6 +22,5 @@
 - :hourglass_flowing_sand: Interested in building modern, responsive web applications
 - :rocket: Always open for collaboration on Web Projects
 - :man_technologist: Passionate about creating projects & learning new frameworks
-- :dart: Motto: "Explore, Learn, and Build :fire:"
-- :zap: Fun fact: I enjoy coding experiments, attending tech meetups, and sharing knowledge
+
 
